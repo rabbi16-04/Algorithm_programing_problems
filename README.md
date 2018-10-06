@@ -1,3 +1,3 @@
 # programing_problems
 
-solve of programming problems from various websites
+solve of programing problems from various websites
